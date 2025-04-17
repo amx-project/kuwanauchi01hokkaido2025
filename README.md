@@ -9,3 +9,6 @@ https://github.com/amx-project/kuwanauchi01hokkaido202504/blob/main/LICENSE.md
 
 ## データ
 * [XML](https://github.com/amx-project/kuwanauchi01hokkaido202504/tree/main/xml)
+
+## その他留意事項
+* https://front.geospatial.jp/moj-chizu-xml-readme/
